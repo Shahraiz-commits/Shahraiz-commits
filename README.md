@@ -1,4 +1,4 @@
-### Hello! I'm Shahraiz Aziz, a junior year student at UofSC pursuing a bachelors in computer science.
+### Hello! I'm Shahraiz Aziz, a student at UofSC pursuing a bachelors in computer science.
 
 <!--
 **Shahraiz-commits/Shahraiz-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
